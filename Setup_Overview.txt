@@ -1,0 +1,15 @@
+git --help
+git init
+git config --global user.name ""
+git config --global user.email ""
+git status
+git add filename
+git add *
+git commit -m "Initial commit"
+git commit -a -m "Initial commit"
+git branch new_branch
+git checkout new_branch
+git checkout master
+git merge new_branch
+git branch -d new_branch
+git push
