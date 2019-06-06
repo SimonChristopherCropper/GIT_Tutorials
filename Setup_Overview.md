@@ -19,15 +19,20 @@ Best for personal daily workflow and sharing of code within a team.
 - VisualStudio IDE.
 - Spyder IDE.
 
-## GiT Concepts
+## Git Concepts
 
 Staging
+
 Committing
+
 Pushing
+
 Pulling
+
 Branching
+
 Merging
-Text - great for coding in any language
+
 
 ## Help
 
@@ -35,7 +40,14 @@ If you install **Git for Windows** you can type `git --help` in the **Git Bash T
 
 Resources can be found on the **GIT for Windows** website [https://git-scm.com/](https://git-scm.com/)
 
-## eBooks and Cheatsheet
+## eBooks and Cheatsheets
 
-<a href="/ebooks_cheatsheets/GITHub_GIT_Cheat_Sheet.pdf">GITHub GIT Cheatsheet</a>
+- <a href="https://git-scm.com/docs">Git Reference Manual</a>
+- <a href="https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf">GitHub-Git Cheat Sheet</a>
+- <a href="https://git-scm.com/book/en/v2">Pro Git eBook</a>
+- <a href="https://git-scm.com/videos">Git Learning Videos</a>
+
+## More tutorials
+
+- [Basic Use](basic_use\GIT_Basic_Cheatsheet.md)
 
