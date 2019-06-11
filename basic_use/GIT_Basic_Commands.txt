@@ -1,9 +1,9 @@
 git --help
-git init
+git init | git clone {URL}
 git config --global user.name ""
 git config --global user.email ""
 git status
-git add filename
+git add {filename}
 git add *
 git commit -m "Initial commit"
 git commit -a -m "Initial commit"

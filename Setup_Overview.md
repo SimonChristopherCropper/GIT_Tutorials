@@ -46,6 +46,7 @@ Resources can be found on the **GIT for Windows** website [https://git-scm.com/]
 - <a href="https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf">GitHub-Git Cheat Sheet</a>
 - <a href="https://git-scm.com/book/en/v2">Pro Git eBook</a>
 - <a href="https://git-scm.com/videos">Git Learning Videos</a>
+- <a href="https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops>Markdown rendered in VSTS</a>
 
 ## More tutorials
 
