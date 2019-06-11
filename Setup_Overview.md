@@ -25,7 +25,7 @@ Best for personal daily workflow and sharing of code within a team.
 
 **Committing** - The process of publishing a set of changes in the repository. Only staged files are committed. Use `git status` to see if there are unstaged changes in the repository.
 
-**Local and remote repsoitories** - git is a distributed version control system. All code is stored in every repository in the network. Changes in code can be managed locally through staging and committing changes, and the state of the repository changed to any commit point using `git checkout {commit}`. Changes can also be shared to the remote repository using the `git push/pull` commands.
+**Local and remote repositories** - git is a distributed version control system. All code is stored in every repository in the network. Changes in code can be managed locally through staging and committing changes, and the state of the repository changed to any commit point using `git checkout {commit}`. Changes can also be shared to the remote repository using the `git push/pull` commands.
 
 **Pushing** - The process of pushing committed changes in a local repository to a remote repository like GitHub or Azure DevOps Repositories.
 
@@ -33,7 +33,7 @@ Best for personal daily workflow and sharing of code within a team.
 
 **Cloning** - The process of duplicating a remote repository usually in GitHub or Azure DevOps Repositories to a local directory. Cloning also sets the remote repository to the cloned repository.
 
-**Branching** - The process of creating a namespace or named sandbox where changes can be made that remain distict and separate from the main or master code.
+**Branching** - The process of creating a namespace or named sandbox where changes can be made that remain distinct and separate from the main or master code.
 
 **Merging** - The process of merging committed changes in a branch with the main or master code.
 
