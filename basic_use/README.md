@@ -55,8 +55,12 @@ Supportive documentation is released under a [Creative Commons Attribution 4.0 I
 
 ## Licenses
 
-Software developed under this project is being released under a [GNU General Public License, version 3 (GPL-3.0)][2] license.
+Software developed under this project is being released under a [GNU General Public License, version 3 (GPL-3.0)][1] license.
 
-Supportive documentation is released under a [Creative Commons Attribution 4.0 International (CC-BY)][3] license.
+Supportive documentation is released under a [Creative Commons Attribution 4.0 International (CC-BY)][2] license.
+
+
+[1]: https://opensource.org/licenses/GPL-3.0
+[2]: https://creativecommons.org/licenses/by/4.0/legalcode
 
 
