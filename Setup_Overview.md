@@ -55,3 +55,10 @@ Resources can be found on the **GIT for Windows** website [https://git-scm.com/]
 
 - [Basic Use](basic_use\GIT_Basic_Cheatsheet.md)
 
+## Licenses
+
+Software developed under this project is being released under a [GNU General Public License, version 3 (GPL-3.0)][2] license.
+
+Supportive documentation is released under a [Creative Commons Attribution 4.0 International (CC-BY)][3] license.
+
+
