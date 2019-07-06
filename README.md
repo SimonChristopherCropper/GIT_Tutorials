@@ -11,7 +11,7 @@ Best for personal daily workflow and sharing of code within a team.
 ### Where do you get it?
 
 - You can download **GIT for Windows** from [https://git-scm.com/](https://git-scm.com/)
-- The software can be installed by IT Department if you don't have administrative rights to your computer or Virtual Machine.
+- The software can be installed by your IT Department if you don't have administrative rights to your computer or Virtual Machine.
 
 ### Software that can access and update GIT repositories without a local version of GIT installed
 
