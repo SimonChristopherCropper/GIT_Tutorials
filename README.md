@@ -53,7 +53,7 @@ Resources can be found on the **GIT for Windows** website [https://git-scm.com/]
 
 ## More tutorials
 
-- [Basic Use](basic_use\GIT_Basic_Cheatsheet.md)
+- [Basic Use](basic_use\README.md)
 
 ## Licenses
 
