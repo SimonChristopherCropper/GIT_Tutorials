@@ -46,6 +46,10 @@
 
 `git push` - pushes committed changes to the remote repository originally cloned when you created the git repository.
 
+## Look at who has done what recently
+
+`git log --pretty=format:"%ad - %an -- %h : %s"` - Prints the commit log to screen in readable format
+
 ## Licenses
 
 Software developed under this project is being released under a [GNU General Public License, version 3 (GPL-3.0)][2] license.
